@@ -25,11 +25,7 @@ This repository hosts the **Blockchain eVault System for Legal Records**, design
 - 🔹 **Accelerated Court Proceedings**: Enhances case handling efficiency with **real-time verification**.
 
 ## 🏛️ System Architecture
-### 🔹 Workflow Overview
-![Flowchart](https://i0.wp.com/i.ibb.co/THnnMms/Whats-App-Image-2023-09-26-at-13-59-35.jpg)
 
-### 🔹 Project Roadmap
-![Roadmap](https://i0.wp.com/i.ibb.co/YWdDwsL/roadmap.jpg)
 
 ## 🏗️ Project Structure
 ### 🔹 Smart Contracts (Solidity)
